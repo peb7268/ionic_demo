@@ -1,0 +1,15 @@
+/* Empty. Add your own CSS if you like */
+.thin {
+	padding: 2px 20px 2px 5px;
+	min-height: 0;
+	line-height: 2;
+}
+
+.button.thin .icon:before, .button.icon:before.thin, .button.icon-left.thin:before {
+	line-height: 1;
+}
+
+.lastText:after {
+	min-width: 20px
+}
+
